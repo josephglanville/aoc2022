@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f9e371b-4f3e-4bdd-8496-dc4f4ba8bb38" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day1/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day2/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day3/main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/util/util.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day1/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day2/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/day3/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/day4/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day4/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/day4/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -79,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources/day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (2)">
+  <component name="RunManager" selected="Kotlin.MainKt (3)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2.MainKt" />
       <module name="aoc2022.main" />
@@ -94,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day4.MainKt" />
+      <module name="aoc2022.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.MainKt" />
       <module name="aoc2022.main" />
@@ -103,6 +92,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (3)" />
         <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
@@ -119,7 +109,7 @@
       <updated>1669910260326</updated>
       <workItem from="1669910261766" duration="3036000" />
       <workItem from="1669964100433" duration="4380000" />
-      <workItem from="1670124169807" duration="2968000" />
+      <workItem from="1670124169807" duration="5123000" />
     </task>
     <servers />
   </component>
